@@ -1,0 +1,64 @@
+42.00 17.25 741.75
+Collins, Bill
+37.50 12.45 466.88
+Smith, Bart
+40.00 21.00 840.00
+Allen, Jim
+40.00 8.35 334.00
+Griffin, Jim
+52.00 12.15 704.70
+Stamey, Marty
+31.75 22.15 703.26
+Rose, Geri
+51.00 25.00 1412.50
+Taylor, Terri K.
+33.00 14.50 478.50
+Johnson, Jill
+40.00 27.35 1094.00
+Allison, Jeff
+0.00 15.00 0.00
+Looney, Joe I.
+62.00 22.50 1642.50
+Wolfe, Bill
+43.00 21.00 934.50
+James, Jean Will
+29.00 18.45 535.05
+Weaver, Jim
+40.50 24.50 998.38
+Pore, Bob E.
+27.00 14.75 398.25
+Rutherford, Greg
+49.80 28.40 1553.48
+Javens, Renee C.
+56.00 18.95 1212.80
+Harrison, Rose
+12.75 12.60 160.65
+Setzer, Cathy
+40.00 19.20 768.00
+Pike, Gordon J.
+18.20 31.20 567.84
+Howard, Beth R.
+42.00 17.25 741.75
+Collins, Bill
+37.50 12.45 466.88
+Smith, Bart
+40.00 21.00 840.00
+Allen, Jim
+40.00 8.35 334.00
+Griffin, Jim
+52.00 12.15 704.70
+Stamey, Marty
+31.75 22.15 703.26
+Rose, Geri
+51.00 25.00 1412.50
+Taylor, Terri K.
+33.00 14.50 478.50
+Johnson, Jill
+40.00 27.35 1094.00
+Allison, Jeff
+0.00 15.00 0.00
+Looney, Joe I.
+62.00 22.50 1642.50
+Wolfe, Bill
+43.00 21.00 934.50
+James, Jean Will
